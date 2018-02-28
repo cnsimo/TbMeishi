@@ -1,0 +1,2 @@
+# 使用selenium爬取淘宝美食
+在selenium的3.x版本中取消了对PhantomJS的支持，所以使用PhantomJS会报如下错误：
